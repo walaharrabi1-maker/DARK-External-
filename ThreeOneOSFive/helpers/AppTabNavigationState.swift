@@ -48,6 +48,8 @@ struct FeatureVisibility: Equatable {
 
     func isVisible(_ section: AppSection) -> Bool {
         switch section {
+        case .installed:
+            return false
         case .files:
             return developerModeEnabled
         default:

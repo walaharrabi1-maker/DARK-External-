@@ -77,7 +77,7 @@
 "dashboard.features" = "Features";
 "dashboard.features_footer" = "Turn on Cleaner or Wallpapers to show it in the app navigation.";
 "tab.home" = "Home";
-"tab.new" = "New";
+"tab.new" = "Misc";
 "tab.files" = "Files";
 "tab.patches" = "Patches";
 "tab.cleaner" = "Cleaner";
@@ -490,8 +490,8 @@
 
 /* Repository marketplace */
 "tab.explore" = "Explore";
-"tab.sources" = "Sources";
-"tab.installed" = "Installed";
+"tab.sources" = "Patches";
+"tab.installed" = "Misc";
 "installed.search" = "Search patches or wallpapers";
 "installed.empty_title" = "Nothing Installed";
 "installed.empty_message" = "Import a .3105 patch or .tendies wallpaper package to begin.";

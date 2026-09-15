@@ -330,7 +330,7 @@
 			);
 			dependencies = (
 			);
-			name = 3105;
+			name = ThreeOneOSFive;
 			productName = 3105;
 			productReference = 3105A010;
 			productType = "com.apple.product-type.application";

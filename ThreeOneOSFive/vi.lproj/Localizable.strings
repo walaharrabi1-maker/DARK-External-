@@ -76,10 +76,10 @@
 "dashboard.enterprise_signing" = "3105 chỉ hoạt động khi được ký bằng chứng chỉ doanh nghiệp. Không hỗ trợ SideStore, AltStore, 3uTools hoặc LiveContainer.";
 "dashboard.features" = "Tính năng";
 "dashboard.features_footer" = "Bật Dọn dẹp hoặc Hình nền để hiển thị tính năng đó trong thanh điều hướng.";
-"tab.home" = "Trang chủ";
-"tab.new" = "Mới";
-"tab.files" = "Tệp";
-"tab.patches" = "Patch";
+"tab.home" = "Home";
+"tab.new" = "Misc";
+"tab.files" = "Files";
+"tab.patches" = "Patches";
 "tab.cleaner" = "Dọn dẹp";
 
 "cleaner.title" = "Dọn dẹp";
@@ -490,8 +490,8 @@
 
 /* Kho gói */
 "tab.explore" = "Khám phá";
-"tab.sources" = "Nguồn";
-"tab.installed" = "Đã cài";
+"tab.sources" = "Patches";
+"tab.installed" = "Misc";
 "installed.search" = "Tìm patch hoặc hình nền";
 "installed.empty_title" = "Chưa có nội dung";
 "installed.empty_message" = "Nhập patch .3105 hoặc gói hình nền .tendies để bắt đầu.";

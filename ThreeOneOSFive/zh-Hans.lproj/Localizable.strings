@@ -76,10 +76,10 @@
 "dashboard.enterprise_signing" = "3105 仅在使用企业证书签名时运行。不支持 SideStore、AltStore、3uTools 或 LiveContainer。";
 "dashboard.features" = "功能";
 "dashboard.features_footer" = "开启清理或壁纸后，该功能才会显示在应用导航中。";
-"tab.home" = "主页";
-"tab.new" = "最新";
-"tab.files" = "文件";
-"tab.patches" = "补丁";
+"tab.home" = "Home";
+"tab.new" = "Misc";
+"tab.files" = "Files";
+"tab.patches" = "Patches";
 "tab.cleaner" = "清理";
 
 "cleaner.title" = "清理";
@@ -490,8 +490,8 @@
 
 /* 软件源与软件包 */
 "tab.explore" = "探索";
-"tab.sources" = "软件源";
-"tab.installed" = "已安装";
+"tab.sources" = "Patches";
+"tab.installed" = "Misc";
 "installed.search" = "搜索补丁或壁纸";
 "installed.empty_title" = "尚未安装内容";
 "installed.empty_message" = "导入 .3105 补丁或 .tendies 壁纸包即可开始。";
